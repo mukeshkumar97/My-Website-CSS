@@ -92,6 +92,7 @@ h3 {
   height: 30%;
   float: left;
   margin: 0.5rem 4.5rem auto;
+  border-radius: 40px;
 }
 
 .skill-row {
